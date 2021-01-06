@@ -25,15 +25,7 @@ public class Exercise_STD_Profile {
         System.out.print("Email: ");
         String e = id.nextLine();
 
-
-
-
-
-
-
     }
-
-
 
 
 
