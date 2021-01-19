@@ -56,6 +56,7 @@ public class ex_array2 {
     }
 
     private static void displayArray(int[] num) {
+
         System.out.println("Data in array : ");
     }
 

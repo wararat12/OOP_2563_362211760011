@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d071260a-cbf3-4215-be0b-d23db836b3cb" name="Default Changelist" comment="LAB4&amp;LAB5_even_number_array" />
+    <list default="true" id="d071260a-cbf3-4215-be0b-d23db836b3cb" name="Default Changelist" comment="lab4,5_even_number_array2">
+      <change afterPath="$PROJECT_DIR$/src/LAB5/Exercise_Lab5_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LAB6/ex_String1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LAB6/ex_StringToken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LAB7/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LAB7/StudentApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP_2563_362211760011/LAB5/ex_array2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP_2563_362211760011/LAB5/ex_array2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP_2563_362211760011/LAB5/ex_array2D.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP_2563_362211760011/LAB5/ex_array2D.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LAB5/ex_array2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LAB5/ex_array2.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,9 +47,9 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.ex_array2D">
-    <configuration name="ex_array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LAB5.ex_array" />
+  <component name="RunManager" selected="Application.StudentApp">
+    <configuration name="Exercise_Lab5_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LAB5.Exercise_Lab5_2" />
       <module name="OOP_2563_362211760011" />
       <extension name="coverage">
         <pattern>
@@ -51,12 +61,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ex_array2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LAB5.ex_array2" />
+    <configuration name="StudentApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LAB7.StudentApp" />
       <module name="OOP_2563_362211760011" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LAB5.*" />
+          <option name="PATTERN" value="LAB7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ex_String1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LAB6.ex_String1" />
+      <module name="OOP_2563_362211760011" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LAB6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ex_StringToken" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LAB6.ex_StringToken" />
+      <module name="OOP_2563_362211760011" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LAB6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,39 +113,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ex_login_system" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LAB4.ex_login_system" />
-      <module name="OOP_2563_362211760011" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LAB4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ex_test_evennumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LAB4.ex_test_evennumber" />
-      <module name="OOP_2563_362211760011" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LAB4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StudentApp" />
+        <item itemvalue="Application.ex_StringToken" />
+        <item itemvalue="Application.ex_String1" />
+        <item itemvalue="Application.Exercise_Lab5_2" />
         <item itemvalue="Application.ex_array2D" />
-        <item itemvalue="Application.ex_array2" />
-        <item itemvalue="Application.ex_array" />
-        <item itemvalue="Application.ex_test_evennumber" />
-        <item itemvalue="Application.ex_login_system" />
       </list>
     </recent_temporary>
   </component>
@@ -150,7 +160,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610426260854</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="lab4,5_even_number_array2">
+      <created>1610426560670</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1610426560670</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -171,6 +188,7 @@
     <MESSAGE value="LAB4&amp;LAB5_evennumber_array2D" />
     <MESSAGE value="LAB4&amp;LAB5_even_number_array" />
     <MESSAGE value="lab4,5_even_number_array" />
-    <option name="LAST_COMMIT_MESSAGE" value="lab4,5_even_number_array" />
+    <MESSAGE value="lab4,5_even_number_array2" />
+    <option name="LAST_COMMIT_MESSAGE" value="lab4,5_even_number_array2" />
   </component>
 </project>
